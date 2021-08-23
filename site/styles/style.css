@@ -79,6 +79,7 @@ h2, h3 {
     font-size: 2rem;
     min-height: 100px;
     text-shadow: 2px 2px 4px purple;
+    text-aline: center;
 }
 
 .location {
